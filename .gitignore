@@ -13,3 +13,6 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+
+# 3DS MAX Files
+*.max
